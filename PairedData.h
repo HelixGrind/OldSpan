@@ -35,7 +35,7 @@
 #include "Function-Sequence.h"
 #include "MosaikAlignment.h"
 #include "headerSpan.h"
-#include "BamMultiReader.h"
+#include "api/BamMultiReader.h"
 #include "SHA1.h"
 
 using namespace std;
