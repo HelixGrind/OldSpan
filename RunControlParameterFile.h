@@ -15,7 +15,7 @@
 #include <stdio.h>
 #include <time.h>
 #include <math.h>
-#include <LIMITS.H>
+#include <limits.h>
 // "boost" regular expression library
 // #include <boost/regex.hpp>
 // 
